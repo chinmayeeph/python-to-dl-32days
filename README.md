@@ -4,13 +4,13 @@
    <!-- ROADMAP_PROGRESS_START -->
 **Roadmap:** 4 Nov 2026 to 5 Dec 2026 (32 days)
 
-**Overall progress:** 6 / 192 study tasks (3%)
+**Overall progress:** 3 / 192 study tasks (2%)
 **Daily mini projects:** 1 / 32 (3%)
 
 ### Subject progress
 | Subject | Progress |
 |---|---|
-| Python | 6/70 (9%) |
+| Python | 3/70 (4%) |
 | Weekend Project | 0/18 (0%) |
 | Data | 0/38 (0%) |
 | Machine Learning | 0/38 (0%) |
@@ -21,7 +21,7 @@
 ### Daily progress
 | Day | Date | Topic | Status |
 |---|---|---|---|
-| 1 | 04 Nov 2026 | Unit testing: assert and pytest | Completed |
+| 1 | 04 Nov 2026 | Unit testing: assert and pytest | In progress |
 | 2 | 05 Nov 2026 | Testing with inputs, edge cases, debugging failures | Not started |
 | 3 | 06 Nov 2026 | File I/O: reading, writing, with, exceptions | Not started |
 | 4 | 07 Nov 2026 | CSV and JSON files | Not started |
@@ -101,199 +101,199 @@
 
 ### Completed topics
 - [x] Day 1: Learn: Unit testing: assert and pytest
-- [x] Day 1: Follow code examples: Unit testing: assert and pytest
-- [x] Day 1: Solve exercises without help: Unit testing: assert and pytest
-- [x] Day 1: Review mistakes and fix failures: Unit testing: assert and pytest
-- [x] Day 1: Practical exercise: apply Unit testing: assert and pytest in a short script
-- [x] Day 1: Quick quiz, update notes, commit: Unit testing: assert and pytest
+- [x] Day : Follow code examples: Unit testing: assert and pytest
+- [x] Day : Solve exercises without help: Unit testing: assert and pytest
 
 ### Pending topics
+- [ ] Day : Review mistakes and fix failures: Unit testing: assert and pytest
+- [ ] Day : Practical exercise: apply Unit testing: assert and pytest in a short script
+- [ ] Day : Quick quiz, update notes, commit: Unit testing: assert and pytest
 - [ ] Day 2: Learn: Testing with inputs, edge cases, debugging failures
-- [ ] Day 2: Follow code examples: Testing with inputs, edge cases, debugging failures
-- [ ] Day 2: Solve exercises without help: Testing with inputs, edge cases, debugging failures
-- [ ] Day 2: Review mistakes and fix failures: Testing with inputs, edge cases, debugging failures
-- [ ] Day 2: Practical exercise: apply Testing with inputs, edge cases, debugging failures in a short script
-- [ ] Day 2: Quick quiz, update notes, commit: Testing with inputs, edge cases, debugging failures
+- [ ] Day : Follow code examples: Testing with inputs, edge cases, debugging failures
+- [ ] Day : Solve exercises without help: Testing with inputs, edge cases, debugging failures
+- [ ] Day : Review mistakes and fix failures: Testing with inputs, edge cases, debugging failures
+- [ ] Day : Practical exercise: apply Testing with inputs, edge cases, debugging failures in a short script
+- [ ] Day : Quick quiz, update notes, commit: Testing with inputs, edge cases, debugging failures
 - [ ] Day 3: Learn: File I/O: reading, writing, with, exceptions
-- [ ] Day 3: Follow code examples: File I/O: reading, writing, with, exceptions
-- [ ] Day 3: Solve exercises without help: File I/O: reading, writing, with, exceptions
-- [ ] Day 3: Review mistakes and fix failures: File I/O: reading, writing, with, exceptions
-- [ ] Day 3: Practical exercise: apply File I/O: reading, writing, with, exceptions in a short script
-- [ ] Day 3: Quick quiz, update notes, commit: File I/O: reading, writing, with, exceptions
+- [ ] Day : Follow code examples: File I/O: reading, writing, with, exceptions
+- [ ] Day : Solve exercises without help: File I/O: reading, writing, with, exceptions
+- [ ] Day : Review mistakes and fix failures: File I/O: reading, writing, with, exceptions
+- [ ] Day : Practical exercise: apply File I/O: reading, writing, with, exceptions in a short script
+- [ ] Day : Quick quiz, update notes, commit: File I/O: reading, writing, with, exceptions
 - [ ] Day 4: Learn: CSV and JSON files
-- [ ] Day 4: Follow code examples: CSV and JSON files
-- [ ] Day 4: Solve exercises without help: CSV and JSON files
-- [ ] Day 4: Review mistakes and fix failures: CSV and JSON files
-- [ ] Day 4: Write calculate_average() and letter_grade() functions
-- [ ] Day 4: Add input validation with try/except for bad marks
+- [ ] Day : Follow code examples: CSV and JSON files
+- [ ] Day : Solve exercises without help: CSV and JSON files
+- [ ] Day : Review mistakes and fix failures: CSV and JSON files
+- [ ] Day : Write calculate_average() and letter_grade() functions
+- [ ] Day : Add input validation with try/except for bad marks
 - [ ] Day 5: Learn: Regular expressions: re.search and re.findall
-- [ ] Day 5: Follow code examples: Regular expressions: re.search and re.findall
-- [ ] Day 5: Solve exercises without help: Regular expressions: re.search and re.findall
-- [ ] Day 5: Review mistakes and fix failures: Regular expressions: re.search and re.findall
-- [ ] Day 5: Store students in a list; add, list and update via a menu loop
-- [ ] Day 5: Write pytest tests for each function, including edge cases
+- [ ] Day : Follow code examples: Regular expressions: re.search and re.findall
+- [ ] Day : Solve exercises without help: Regular expressions: re.search and re.findall
+- [ ] Day : Review mistakes and fix failures: Regular expressions: re.search and re.findall
+- [ ] Day : Store students in a list; add, list and update via a menu loop
+- [ ] Day : Write pytest tests for each function, including edge cases
 - [ ] Day 6: Learn: Regex: re.sub and validation exercises
-- [ ] Day 6: Follow code examples: Regex: re.sub and validation exercises
-- [ ] Day 6: Solve exercises without help: Regex: re.sub and validation exercises
-- [ ] Day 6: Review mistakes and fix failures: Regex: re.sub and validation exercises
-- [ ] Day 6: Practical exercise: apply Regex: re.sub and validation exercises in a short script
-- [ ] Day 6: Quick quiz, update notes, commit: Regex: re.sub and validation exercises
+- [ ] Day : Follow code examples: Regex: re.sub and validation exercises
+- [ ] Day : Solve exercises without help: Regex: re.sub and validation exercises
+- [ ] Day : Review mistakes and fix failures: Regex: re.sub and validation exercises
+- [ ] Day : Practical exercise: apply Regex: re.sub and validation exercises in a short script
+- [ ] Day : Quick quiz, update notes, commit: Regex: re.sub and validation exercises
 - [ ] Day 7: Learn: OOP: classes, objects, constructors, attributes
-- [ ] Day 7: Follow code examples: OOP: classes, objects, constructors, attributes
-- [ ] Day 7: Solve exercises without help: OOP: classes, objects, constructors, attributes
-- [ ] Day 7: Review mistakes and fix failures: OOP: classes, objects, constructors, attributes
-- [ ] Day 7: Practical exercise: apply OOP: classes, objects, constructors, attributes in a short script
-- [ ] Day 7: Quick quiz, update notes, commit: OOP: classes, objects, constructors, attributes
+- [ ] Day : Follow code examples: OOP: classes, objects, constructors, attributes
+- [ ] Day : Solve exercises without help: OOP: classes, objects, constructors, attributes
+- [ ] Day : Review mistakes and fix failures: OOP: classes, objects, constructors, attributes
+- [ ] Day : Practical exercise: apply OOP: classes, objects, constructors, attributes in a short script
+- [ ] Day : Quick quiz, update notes, commit: OOP: classes, objects, constructors, attributes
 - [ ] Day 8: Learn: OOP: inheritance, class/static methods, properties, encapsulation
-- [ ] Day 8: Follow code examples: OOP: inheritance, class/static methods, properties, encapsulation
-- [ ] Day 8: Solve exercises without help: OOP: inheritance, class/static methods, properties, encapsulation
-- [ ] Day 8: Review mistakes and fix failures: OOP: inheritance, class/static methods, properties, encapsulation
-- [ ] Day 8: Practical exercise: apply OOP: inheritance, class/static methods, properties, encapsulation in a short script
-- [ ] Day 8: Quick quiz, update notes, commit: OOP: inheritance, class/static methods, properties, encapsulation
+- [ ] Day : Follow code examples: OOP: inheritance, class/static methods, properties, encapsulation
+- [ ] Day : Solve exercises without help: OOP: inheritance, class/static methods, properties, encapsulation
+- [ ] Day : Review mistakes and fix failures: OOP: inheritance, class/static methods, properties, encapsulation
+- [ ] Day : Practical exercise: apply OOP: inheritance, class/static methods, properties, encapsulation in a short script
+- [ ] Day : Quick quiz, update notes, commit: OOP: inheritance, class/static methods, properties, encapsulation
 - [ ] Day 9: Learn: Comprehensions, iterators, generators
-- [ ] Day 9: Follow code examples: Comprehensions, iterators, generators
-- [ ] Day 9: Solve exercises without help: Comprehensions, iterators, generators
-- [ ] Day 9: Review mistakes and fix failures: Comprehensions, iterators, generators
-- [ ] Day 9: Practical exercise: apply Comprehensions, iterators, generators in a short script
-- [ ] Day 9: Quick quiz, update notes, commit: Comprehensions, iterators, generators
+- [ ] Day : Follow code examples: Comprehensions, iterators, generators
+- [ ] Day : Solve exercises without help: Comprehensions, iterators, generators
+- [ ] Day : Review mistakes and fix failures: Comprehensions, iterators, generators
+- [ ] Day : Practical exercise: apply Comprehensions, iterators, generators in a short script
+- [ ] Day : Quick quiz, update notes, commit: Comprehensions, iterators, generators
 - [ ] Day 10: Learn: Decorators (intro) and type hints
-- [ ] Day 10: Follow code examples: Decorators (intro) and type hints
-- [ ] Day 10: Solve exercises without help: Decorators (intro) and type hints
-- [ ] Day 10: Review mistakes and fix failures: Decorators (intro) and type hints
-- [ ] Day 10: Practical exercise: apply Decorators (intro) and type hints in a short script
-- [ ] Day 10: Quick quiz, update notes, commit: Decorators (intro) and type hints
+- [ ] Day : Follow code examples: Decorators (intro) and type hints
+- [ ] Day : Solve exercises without help: Decorators (intro) and type hints
+- [ ] Day : Review mistakes and fix failures: Decorators (intro) and type hints
+- [ ] Day : Practical exercise: apply Decorators (intro) and type hints in a short script
+- [ ] Day : Quick quiz, update notes, commit: Decorators (intro) and type hints
 - [ ] Day 11: Learn: Virtual environments, pip, requirements.txt, packages
-- [ ] Day 11: Follow code examples: Virtual environments, pip, requirements.txt, packages
-- [ ] Day 11: Solve exercises without help: Virtual environments, pip, requirements.txt, packages
-- [ ] Day 11: Review mistakes and fix failures: Virtual environments, pip, requirements.txt, packages
-- [ ] Day 11: Create Expense and Budget classes with __init__, properties and methods
-- [ ] Day 11: Save and load expenses to JSON using with and exception handling
+- [ ] Day : Follow code examples: Virtual environments, pip, requirements.txt, packages
+- [ ] Day : Solve exercises without help: Virtual environments, pip, requirements.txt, packages
+- [ ] Day : Review mistakes and fix failures: Virtual environments, pip, requirements.txt, packages
+- [ ] Day : Create Expense and Budget classes with __init__, properties and methods
+- [ ] Day : Save and load expenses to JSON using with and exception handling
 - [ ] Day 12: Learn: Clean code, debugging, Git/GitHub workflow
-- [ ] Day 12: Follow code examples: Clean code, debugging, Git/GitHub workflow
-- [ ] Day 12: Solve exercises without help: Clean code, debugging, Git/GitHub workflow
-- [ ] Day 12: Review mistakes and fix failures: Clean code, debugging, Git/GitHub workflow
-- [ ] Day 12: Export to CSV with the csv module and reload it
-- [ ] Day 12: Analyse totals per category with Pandas; add pytest tests
+- [ ] Day : Follow code examples: Clean code, debugging, Git/GitHub workflow
+- [ ] Day : Solve exercises without help: Clean code, debugging, Git/GitHub workflow
+- [ ] Day : Review mistakes and fix failures: Clean code, debugging, Git/GitHub workflow
+- [ ] Day : Export to CSV with the csv module and reload it
+- [ ] Day : Analyse totals per category with Pandas; add pytest tests
 - [ ] Day 13: Learn: Weekly review: Python foundations
-- [ ] Day 13: Follow code examples: Weekly review: Python foundations
-- [ ] Day 13: Solve exercises without help: Weekly review: Python foundations
-- [ ] Day 13: Review mistakes and fix failures: Weekly review: Python foundations
-- [ ] Day 13: Practical exercise: apply Weekly review: Python foundations in a short script
-- [ ] Day 13: Quick quiz, update notes, commit: Weekly review: Python foundations
+- [ ] Day : Follow code examples: Weekly review: Python foundations
+- [ ] Day : Solve exercises without help: Weekly review: Python foundations
+- [ ] Day : Review mistakes and fix failures: Weekly review: Python foundations
+- [ ] Day : Practical exercise: apply Weekly review: Python foundations in a short script
+- [ ] Day : Quick quiz, update notes, commit: Weekly review: Python foundations
 - [ ] Day 14: Learn: NumPy arrays and vectorised operations
-- [ ] Day 14: Follow code examples: NumPy arrays and vectorised operations
-- [ ] Day 14: Solve exercises without help: NumPy arrays and vectorised operations
-- [ ] Day 14: Review mistakes and fix failures: NumPy arrays and vectorised operations
-- [ ] Day 14: Practical exercise: apply NumPy arrays and vectorised operations in a short script
-- [ ] Day 14: Quick quiz, update notes, commit: NumPy arrays and vectorised operations
+- [ ] Day : Follow code examples: NumPy arrays and vectorised operations
+- [ ] Day : Solve exercises without help: NumPy arrays and vectorised operations
+- [ ] Day : Review mistakes and fix failures: NumPy arrays and vectorised operations
+- [ ] Day : Practical exercise: apply NumPy arrays and vectorised operations in a short script
+- [ ] Day : Quick quiz, update notes, commit: NumPy arrays and vectorised operations
 - [ ] Day 15: Learn: Pandas: Series, DataFrames, loading data
-- [ ] Day 15: Follow code examples: Pandas: Series, DataFrames, loading data
-- [ ] Day 15: Solve exercises without help: Pandas: Series, DataFrames, loading data
-- [ ] Day 15: Review mistakes and fix failures: Pandas: Series, DataFrames, loading data
-- [ ] Day 15: Practical exercise: apply Pandas: Series, DataFrames, loading data in a short script
-- [ ] Day 15: Quick quiz, update notes, commit: Pandas: Series, DataFrames, loading data
+- [ ] Day : Follow code examples: Pandas: Series, DataFrames, loading data
+- [ ] Day : Solve exercises without help: Pandas: Series, DataFrames, loading data
+- [ ] Day : Review mistakes and fix failures: Pandas: Series, DataFrames, loading data
+- [ ] Day : Practical exercise: apply Pandas: Series, DataFrames, loading data in a short script
+- [ ] Day : Quick quiz, update notes, commit: Pandas: Series, DataFrames, loading data
 - [ ] Day 16: Learn: Pandas: missing values and duplicates
-- [ ] Day 16: Follow code examples: Pandas: missing values and duplicates
-- [ ] Day 16: Solve exercises without help: Pandas: missing values and duplicates
-- [ ] Day 16: Review mistakes and fix failures: Pandas: missing values and duplicates
-- [ ] Day 16: Practical exercise: apply Pandas: missing values and duplicates in a short script
-- [ ] Day 16: Quick quiz, update notes, commit: Pandas: missing values and duplicates
+- [ ] Day : Follow code examples: Pandas: missing values and duplicates
+- [ ] Day : Solve exercises without help: Pandas: missing values and duplicates
+- [ ] Day : Review mistakes and fix failures: Pandas: missing values and duplicates
+- [ ] Day : Practical exercise: apply Pandas: missing values and duplicates in a short script
+- [ ] Day : Quick quiz, update notes, commit: Pandas: missing values and duplicates
 - [ ] Day 17: Learn: Pandas: filtering, sorting, grouping, aggregation
-- [ ] Day 17: Follow code examples: Pandas: filtering, sorting, grouping, aggregation
-- [ ] Day 17: Solve exercises without help: Pandas: filtering, sorting, grouping, aggregation
-- [ ] Day 17: Review mistakes and fix failures: Pandas: filtering, sorting, grouping, aggregation
-- [ ] Day 17: Practical exercise: apply Pandas: filtering, sorting, grouping, aggregation in a short script
-- [ ] Day 17: Quick quiz, update notes, commit: Pandas: filtering, sorting, grouping, aggregation
+- [ ] Day : Follow code examples: Pandas: filtering, sorting, grouping, aggregation
+- [ ] Day : Solve exercises without help: Pandas: filtering, sorting, grouping, aggregation
+- [ ] Day : Review mistakes and fix failures: Pandas: filtering, sorting, grouping, aggregation
+- [ ] Day : Practical exercise: apply Pandas: filtering, sorting, grouping, aggregation in a short script
+- [ ] Day : Quick quiz, update notes, commit: Pandas: filtering, sorting, grouping, aggregation
 - [ ] Day 18: Learn: Matplotlib and descriptive statistics
-- [ ] Day 18: Follow code examples: Matplotlib and descriptive statistics
-- [ ] Day 18: Solve exercises without help: Matplotlib and descriptive statistics
-- [ ] Day 18: Review mistakes and fix failures: Matplotlib and descriptive statistics
-- [ ] Day 18: Load dataset; check shape, nulls and duplicates with Pandas
-- [ ] Day 18: Clean missing values and encode categorical columns
+- [ ] Day : Follow code examples: Matplotlib and descriptive statistics
+- [ ] Day : Solve exercises without help: Matplotlib and descriptive statistics
+- [ ] Day : Review mistakes and fix failures: Matplotlib and descriptive statistics
+- [ ] Day : Load dataset; check shape, nulls and duplicates with Pandas
+- [ ] Day : Clean missing values and encode categorical columns
 - [ ] Day 19: Learn: Probability fundamentals and correlation
-- [ ] Day 19: Follow code examples: Probability fundamentals and correlation
-- [ ] Day 19: Solve exercises without help: Probability fundamentals and correlation
-- [ ] Day 19: Review mistakes and fix failures: Probability fundamentals and correlation
-- [ ] Day 19: Plot distributions and a correlation heatmap with Matplotlib
-- [ ] Day 19: Train logistic regression and decision tree; evaluate precision, recall, F1, confusion matrix
+- [ ] Day : Follow code examples: Probability fundamentals and correlation
+- [ ] Day : Solve exercises without help: Probability fundamentals and correlation
+- [ ] Day : Review mistakes and fix failures: Probability fundamentals and correlation
+- [ ] Day : Plot distributions and a correlation heatmap with Matplotlib
+- [ ] Day : Train logistic regression and decision tree; evaluate precision, recall, F1, confusion matrix
 - [ ] Day 20: Learn: SQL fundamentals
-- [ ] Day 20: Follow code examples: SQL fundamentals
-- [ ] Day 20: Solve exercises without help: SQL fundamentals
-- [ ] Day 20: Review mistakes and fix failures: SQL fundamentals
-- [ ] Day 20: Practical exercise: apply SQL fundamentals in a short script
-- [ ] Day 20: Quick quiz, update notes, commit: SQL fundamentals
+- [ ] Day : Follow code examples: SQL fundamentals
+- [ ] Day : Solve exercises without help: SQL fundamentals
+- [ ] Day : Review mistakes and fix failures: SQL fundamentals
+- [ ] Day : Practical exercise: apply SQL fundamentals in a short script
+- [ ] Day : Quick quiz, update notes, commit: SQL fundamentals
 - [ ] Day 21: Learn: What is ML, supervised vs unsupervised, train/val/test
-- [ ] Day 21: Follow code examples: What is ML, supervised vs unsupervised, train/val/test
-- [ ] Day 21: Solve exercises without help: What is ML, supervised vs unsupervised, train/val/test
-- [ ] Day 21: Review mistakes and fix failures: What is ML, supervised vs unsupervised, train/val/test
-- [ ] Day 21: Practical exercise: apply What is ML, supervised vs unsupervised, train/val/test in a short script
-- [ ] Day 21: Quick quiz, update notes, commit: What is ML, supervised vs unsupervised, train/val/test
+- [ ] Day : Follow code examples: What is ML, supervised vs unsupervised, train/val/test
+- [ ] Day : Solve exercises without help: What is ML, supervised vs unsupervised, train/val/test
+- [ ] Day : Review mistakes and fix failures: What is ML, supervised vs unsupervised, train/val/test
+- [ ] Day : Practical exercise: apply What is ML, supervised vs unsupervised, train/val/test in a short script
+- [ ] Day : Quick quiz, update notes, commit: What is ML, supervised vs unsupervised, train/val/test
 - [ ] Day 22: Learn: Preprocessing: encoding, scaling, feature engineering
-- [ ] Day 22: Follow code examples: Preprocessing: encoding, scaling, feature engineering
-- [ ] Day 22: Solve exercises without help: Preprocessing: encoding, scaling, feature engineering
-- [ ] Day 22: Review mistakes and fix failures: Preprocessing: encoding, scaling, feature engineering
-- [ ] Day 22: Practical exercise: apply Preprocessing: encoding, scaling, feature engineering in a short script
-- [ ] Day 22: Quick quiz, update notes, commit: Preprocessing: encoding, scaling, feature engineering
+- [ ] Day : Follow code examples: Preprocessing: encoding, scaling, feature engineering
+- [ ] Day : Solve exercises without help: Preprocessing: encoding, scaling, feature engineering
+- [ ] Day : Review mistakes and fix failures: Preprocessing: encoding, scaling, feature engineering
+- [ ] Day : Practical exercise: apply Preprocessing: encoding, scaling, feature engineering in a short script
+- [ ] Day : Quick quiz, update notes, commit: Preprocessing: encoding, scaling, feature engineering
 - [ ] Day 23: Learn: Linear and logistic regression
-- [ ] Day 23: Follow code examples: Linear and logistic regression
-- [ ] Day 23: Solve exercises without help: Linear and logistic regression
-- [ ] Day 23: Review mistakes and fix failures: Linear and logistic regression
-- [ ] Day 23: Practical exercise: apply Linear and logistic regression in a short script
-- [ ] Day 23: Quick quiz, update notes, commit: Linear and logistic regression
+- [ ] Day : Follow code examples: Linear and logistic regression
+- [ ] Day : Solve exercises without help: Linear and logistic regression
+- [ ] Day : Review mistakes and fix failures: Linear and logistic regression
+- [ ] Day : Practical exercise: apply Linear and logistic regression in a short script
+- [ ] Day : Quick quiz, update notes, commit: Linear and logistic regression
 - [ ] Day 24: Learn: Decision trees and random forests
-- [ ] Day 24: Follow code examples: Decision trees and random forests
-- [ ] Day 24: Solve exercises without help: Decision trees and random forests
-- [ ] Day 24: Review mistakes and fix failures: Decision trees and random forests
-- [ ] Day 24: Practical exercise: apply Decision trees and random forests in a short script
-- [ ] Day 24: Quick quiz, update notes, commit: Decision trees and random forests
+- [ ] Day : Follow code examples: Decision trees and random forests
+- [ ] Day : Solve exercises without help: Decision trees and random forests
+- [ ] Day : Review mistakes and fix failures: Decision trees and random forests
+- [ ] Day : Practical exercise: apply Decision trees and random forests in a short script
+- [ ] Day : Quick quiz, update notes, commit: Decision trees and random forests
 - [ ] Day 25: Learn: KNN, SVM, Naive Bayes
-- [ ] Day 25: Follow code examples: KNN, SVM, Naive Bayes
-- [ ] Day 25: Solve exercises without help: KNN, SVM, Naive Bayes
-- [ ] Day 25: Review mistakes and fix failures: KNN, SVM, Naive Bayes
-- [ ] Day 25: Load FashionMNIST with torchvision and create DataLoaders
-- [ ] Day 25: Build a fully connected network and check output shapes
+- [ ] Day : Follow code examples: KNN, SVM, Naive Bayes
+- [ ] Day : Solve exercises without help: KNN, SVM, Naive Bayes
+- [ ] Day : Review mistakes and fix failures: KNN, SVM, Naive Bayes
+- [ ] Day : Load FashionMNIST with torchvision and create DataLoaders
+- [ ] Day : Build a fully connected network and check output shapes
 - [ ] Day 26: Learn: Clustering: K-means and PCA
-- [ ] Day 26: Follow code examples: Clustering: K-means and PCA
-- [ ] Day 26: Solve exercises without help: Clustering: K-means and PCA
-- [ ] Day 26: Review mistakes and fix failures: Clustering: K-means and PCA
-- [ ] Day 26: Write the training loop: forward, loss, backward, optimizer step
-- [ ] Day 26: Report test accuracy; plot loss; compare with a small CNN
+- [ ] Day : Follow code examples: Clustering: K-means and PCA
+- [ ] Day : Solve exercises without help: Clustering: K-means and PCA
+- [ ] Day : Review mistakes and fix failures: Clustering: K-means and PCA
+- [ ] Day : Write the training loop: forward, loss, backward, optimizer step
+- [ ] Day : Report test accuracy; plot loss; compare with a small CNN
 - [ ] Day 27: Learn: Evaluation: overfitting, cross-validation, metrics, ROC-AUC
-- [ ] Day 27: Follow code examples: Evaluation: overfitting, cross-validation, metrics, ROC-AUC
-- [ ] Day 27: Solve exercises without help: Evaluation: overfitting, cross-validation, metrics, ROC-AUC
-- [ ] Day 27: Review mistakes and fix failures: Evaluation: overfitting, cross-validation, metrics, ROC-AUC
-- [ ] Day 27: Practical exercise: apply Evaluation: overfitting, cross-validation, metrics, ROC-AUC in a short script
-- [ ] Day 27: Quick quiz, update notes, commit: Evaluation: overfitting, cross-validation, metrics, ROC-AUC
+- [ ] Day : Follow code examples: Evaluation: overfitting, cross-validation, metrics, ROC-AUC
+- [ ] Day : Solve exercises without help: Evaluation: overfitting, cross-validation, metrics, ROC-AUC
+- [ ] Day : Review mistakes and fix failures: Evaluation: overfitting, cross-validation, metrics, ROC-AUC
+- [ ] Day : Practical exercise: apply Evaluation: overfitting, cross-validation, metrics, ROC-AUC in a short script
+- [ ] Day : Quick quiz, update notes, commit: Evaluation: overfitting, cross-validation, metrics, ROC-AUC
 - [ ] Day 28: Learn: Neural networks: neurons, activations, backprop, gradient descent
-- [ ] Day 28: Follow code examples: Neural networks: neurons, activations, backprop, gradient descent
-- [ ] Day 28: Solve exercises without help: Neural networks: neurons, activations, backprop, gradient descent
-- [ ] Day 28: Review mistakes and fix failures: Neural networks: neurons, activations, backprop, gradient descent
-- [ ] Day 28: Practical exercise: apply Neural networks: neurons, activations, backprop, gradient descent in a short script
-- [ ] Day 28: Quick quiz, update notes, commit: Neural networks: neurons, activations, backprop, gradient descent
+- [ ] Day : Follow code examples: Neural networks: neurons, activations, backprop, gradient descent
+- [ ] Day : Solve exercises without help: Neural networks: neurons, activations, backprop, gradient descent
+- [ ] Day : Review mistakes and fix failures: Neural networks: neurons, activations, backprop, gradient descent
+- [ ] Day : Practical exercise: apply Neural networks: neurons, activations, backprop, gradient descent in a short script
+- [ ] Day : Quick quiz, update notes, commit: Neural networks: neurons, activations, backprop, gradient descent
 - [ ] Day 29: Learn: PyTorch: tensors, autograd, training loop, CNN basics
-- [ ] Day 29: Follow code examples: PyTorch: tensors, autograd, training loop, CNN basics
-- [ ] Day 29: Solve exercises without help: PyTorch: tensors, autograd, training loop, CNN basics
-- [ ] Day 29: Review mistakes and fix failures: PyTorch: tensors, autograd, training loop, CNN basics
-- [ ] Day 29: Practical exercise: apply PyTorch: tensors, autograd, training loop, CNN basics in a short script
-- [ ] Day 29: Quick quiz, update notes, commit: PyTorch: tensors, autograd, training loop, CNN basics
+- [ ] Day : Follow code examples: PyTorch: tensors, autograd, training loop, CNN basics
+- [ ] Day : Solve exercises without help: PyTorch: tensors, autograd, training loop, CNN basics
+- [ ] Day : Review mistakes and fix failures: PyTorch: tensors, autograd, training loop, CNN basics
+- [ ] Day : Practical exercise: apply PyTorch: tensors, autograd, training loop, CNN basics in a short script
+- [ ] Day : Quick quiz, update notes, commit: PyTorch: tensors, autograd, training loop, CNN basics
 - [ ] Day 30: Learn: Text preprocessing, tokenization, Bag of Words, TF-IDF, embeddings
-- [ ] Day 30: Follow code examples: Text preprocessing, tokenization, Bag of Words, TF-IDF, embeddings
-- [ ] Day 30: Solve exercises without help: Text preprocessing, tokenization, Bag of Words, TF-IDF, embeddings
-- [ ] Day 30: Review mistakes and fix failures: Text preprocessing, tokenization, Bag of Words, TF-IDF, embeddings
-- [ ] Day 30: Practical exercise: apply Text preprocessing, tokenization, Bag of Words, TF-IDF, embeddings in a short script
-- [ ] Day 30: Quick quiz, update notes, commit: Text preprocessing, tokenization, Bag of Words, TF-IDF, embeddings
+- [ ] Day : Follow code examples: Text preprocessing, tokenization, Bag of Words, TF-IDF, embeddings
+- [ ] Day : Solve exercises without help: Text preprocessing, tokenization, Bag of Words, TF-IDF, embeddings
+- [ ] Day : Review mistakes and fix failures: Text preprocessing, tokenization, Bag of Words, TF-IDF, embeddings
+- [ ] Day : Practical exercise: apply Text preprocessing, tokenization, Bag of Words, TF-IDF, embeddings in a short script
+- [ ] Day : Quick quiz, update notes, commit: Text preprocessing, tokenization, Bag of Words, TF-IDF, embeddings
 - [ ] Day 31: Learn: RNN, LSTM, GRU, attention, transformers, Hugging Face
-- [ ] Day 31: Follow code examples: RNN, LSTM, GRU, attention, transformers, Hugging Face
-- [ ] Day 31: Solve exercises without help: RNN, LSTM, GRU, attention, transformers, Hugging Face
-- [ ] Day 31: Review mistakes and fix failures: RNN, LSTM, GRU, attention, transformers, Hugging Face
-- [ ] Day 31: Practical exercise: apply RNN, LSTM, GRU, attention, transformers, Hugging Face in a short script
-- [ ] Day 31: Quick quiz, update notes, commit: RNN, LSTM, GRU, attention, transformers, Hugging Face
+- [ ] Day : Follow code examples: RNN, LSTM, GRU, attention, transformers, Hugging Face
+- [ ] Day : Solve exercises without help: RNN, LSTM, GRU, attention, transformers, Hugging Face
+- [ ] Day : Review mistakes and fix failures: RNN, LSTM, GRU, attention, transformers, Hugging Face
+- [ ] Day : Practical exercise: apply RNN, LSTM, GRU, attention, transformers, Hugging Face in a short script
+- [ ] Day : Quick quiz, update notes, commit: RNN, LSTM, GRU, attention, transformers, Hugging Face
 - [ ] Day 32: Learn: Final assessment and weekly revision
-- [ ] Day 32: Follow code examples: Final assessment and weekly revision
-- [ ] Day 32: Solve exercises without help: Final assessment and weekly revision
-- [ ] Day 32: Review mistakes and fix failures: Final assessment and weekly revision
-- [ ] Day 32: Clean text: lowercase, tokenize, remove stop-words; write tests
-- [ ] Day 32: Build BoW/TF-IDF features; train a classifier and compare with a Hugging Face pipeline
+- [ ] Day : Follow code examples: Final assessment and weekly revision
+- [ ] Day : Solve exercises without help: Final assessment and weekly revision
+- [ ] Day : Review mistakes and fix failures: Final assessment and weekly revision
+- [ ] Day : Clean text: lowercase, tokenize, remove stop-words; write tests
+- [ ] Day : Build BoW/TF-IDF features; train a classifier and compare with a Hugging Face pipeline
 
-_Last updated: 04 Nov 2026 16:59 IST_
+_Last updated: 04 Nov 2026 18:13 IST_
 <!-- ROADMAP_PROGRESS_END -->
