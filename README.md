@@ -4,14 +4,14 @@
    <!-- ROADMAP_PROGRESS_START -->
 **Roadmap:** 4 Nov 2026 to 5 Dec 2026 (32 days)
 
-**Overall progress:** 2 / 192 study tasks (1%)
+**Overall progress:** 1 / 192 study tasks (1%)
 **Daily mini projects:** 0 / 32 (0%)
 
 ### Subject progress
 | Subject | Progress |
 |---|---|
 | Python | 1/70 (1%) |
-| Weekend Project | 1/18 (6%) |
+| Weekend Project | 0/18 (0%) |
 | Data | 0/38 (0%) |
 | Machine Learning | 0/38 (0%) |
 | Deep Learning | 0/12 (0%) |
@@ -24,7 +24,7 @@
 | 1 | 04 Nov 2026 | Unit testing: assert and pytest | In progress |
 | 2 | 05 Nov 2026 | Testing with inputs, edge cases, debugging failures | Not started |
 | 3 | 06 Nov 2026 | File I/O: reading, writing, with, exceptions | Not started |
-| 4 | 07 Nov 2026 | CSV and JSON files | In progress |
+| 4 | 07 Nov 2026 | CSV and JSON files | Not started |
 | 5 | 08 Nov 2026 | Regular expressions: re.search and re.findall | Not started |
 | 6 | 09 Nov 2026 | Regex: re.sub and validation exercises | Not started |
 | 7 | 10 Nov 2026 | OOP: classes, objects, constructors, attributes | Not started |
@@ -93,7 +93,7 @@
 ### Weekend projects
 | Project | Completion | Folder |
 |---|---|---|
-| Student Grade Manager | 25% | [folder](https://github.com/chinmayeeph/python-to-dl-32days/tree/main/weekend-projects/01-student-grade-manager) |
+| Student Grade Manager | 0% | [folder](https://github.com/chinmayeeph/python-to-dl-32days/tree/main/weekend-projects/01-student-grade-manager) |
 | Expense Tracker (OOP, JSON, CSV, Pandas) | 0% | [folder](https://github.com/chinmayeeph/python-to-dl-32days/tree/main/weekend-projects/02-expense-tracker) |
 | EDA and Prediction on Titanic (Pandas, Matplotlib, ML) | 0% | [folder](https://github.com/chinmayeeph/python-to-dl-32days/tree/main/weekend-projects/03-titanic-eda-prediction) |
 | PyTorch Image Classifier (FashionMNIST) | 0% | [folder](https://github.com/chinmayeeph/python-to-dl-32days/tree/main/weekend-projects/04-pytorch-image-classifier) |
@@ -101,7 +101,6 @@
 
 ### Completed topics
 - [x] Day 1: Learn: Unit testing: assert and pytest
-- [x] Day 4: Write calculate_average() and letter_grade() functions
 
 ### Pending topics
 - [ ] Day 1: Follow code examples: Unit testing: assert and pytest
@@ -125,6 +124,7 @@
 - [ ] Day 4: Follow code examples: CSV and JSON files
 - [ ] Day 4: Solve exercises without help: CSV and JSON files
 - [ ] Day 4: Review mistakes and fix failures: CSV and JSON files
+- [ ] Day 4: Write calculate_average() and letter_grade() functions
 - [ ] Day 4: Add input validation with try/except for bad marks
 - [ ] Day 5: Learn: Regular expressions: re.search and re.findall
 - [ ] Day 5: Follow code examples: Regular expressions: re.search and re.findall
