@@ -4,13 +4,13 @@
    <!-- ROADMAP_PROGRESS_START -->
 **Roadmap:** 4 Nov 2026 to 5 Dec 2026 (32 days)
 
-**Overall progress:** 0 / 192 study tasks (0%)
+**Overall progress:** 1 / 192 study tasks (1%)
 **Daily mini projects:** 0 / 32 (0%)
 
 ### Subject progress
 | Subject | Progress |
 |---|---|
-| Python | 0/70 (0%) |
+| Python | 1/70 (1%) |
 | Weekend Project | 0/18 (0%) |
 | Data | 0/38 (0%) |
 | Machine Learning | 0/38 (0%) |
@@ -21,7 +21,7 @@
 ### Daily progress
 | Day | Date | Topic | Status |
 |---|---|---|---|
-| 1 | 04 Nov 2026 | Unit testing: assert and pytest | Not started |
+| 1 | 04 Nov 2026 | Unit testing: assert and pytest | In progress |
 | 2 | 05 Nov 2026 | Testing with inputs, edge cases, debugging failures | Not started |
 | 3 | 06 Nov 2026 | File I/O: reading, writing, with, exceptions | Not started |
 | 4 | 07 Nov 2026 | CSV and JSON files | Not started |
@@ -100,9 +100,9 @@
 | Sentiment Classifier (NLP) | 0% | not yet |
 
 ### Completed topics
+- [x] Day 1: Learn: Unit testing: assert and pytest
 
 ### Pending topics
-- [ ] Day 1: Learn: Unit testing: assert and pytest
 - [ ] Day 1: Follow code examples: Unit testing: assert and pytest
 - [ ] Day 1: Solve exercises without help: Unit testing: assert and pytest
 - [ ] Day 1: Review mistakes and fix failures: Unit testing: assert and pytest
