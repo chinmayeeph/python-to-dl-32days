@@ -4,13 +4,13 @@
    <!-- ROADMAP_PROGRESS_START -->
 **Roadmap:** 4 Nov 2026 to 5 Dec 2026 (32 days)
 
-**Overall progress:** 3 / 192 study tasks (2%)
+**Overall progress:** 0 / 192 study tasks (0%)
 **Daily mini projects:** 1 / 32 (3%)
 
 ### Subject progress
 | Subject | Progress |
 |---|---|
-| Python | 3/70 (4%) |
+| Python | 0/70 (0%) |
 | Weekend Project | 0/18 (0%) |
 | Data | 0/38 (0%) |
 | Machine Learning | 0/38 (0%) |
@@ -21,7 +21,7 @@
 ### Daily progress
 | Day | Date | Topic | Status |
 |---|---|---|---|
-| 1 | 04 Nov 2026 | Unit testing: assert and pytest | In progress |
+| 1 | 04 Nov 2026 | Unit testing: assert and pytest | Not started |
 | 2 | 05 Nov 2026 | Testing with inputs, edge cases, debugging failures | Not started |
 | 3 | 06 Nov 2026 | File I/O: reading, writing, with, exceptions | Not started |
 | 4 | 07 Nov 2026 | CSV and JSON files | Not started |
@@ -100,11 +100,11 @@
 | Sentiment Classifier (NLP) | 0% | [folder](https://github.com/chinmayeeph/python-to-dl-32days/tree/main/weekend-projects/05-sentiment-classifier) |
 
 ### Completed topics
-- [x] Day 1: Learn: Unit testing: assert and pytest
-- [x] Day : Follow code examples: Unit testing: assert and pytest
-- [x] Day : Solve exercises without help: Unit testing: assert and pytest
 
 ### Pending topics
+- [ ] Day 1: Learn: Unit testing: assert and pytest
+- [ ] Day : Follow code examples: Unit testing: assert and pytest
+- [ ] Day : Solve exercises without help: Unit testing: assert and pytest
 - [ ] Day : Review mistakes and fix failures: Unit testing: assert and pytest
 - [ ] Day : Practical exercise: apply Unit testing: assert and pytest in a short script
 - [ ] Day : Quick quiz, update notes, commit: Unit testing: assert and pytest
