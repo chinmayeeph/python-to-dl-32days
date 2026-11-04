@@ -5,7 +5,7 @@
 **Roadmap:** 4 Nov 2026 to 5 Dec 2026 (32 days)
 
 **Overall progress:** 6 / 192 study tasks (3%)
-**Daily mini projects:** 0 / 32 (0%)
+**Daily mini projects:** 1 / 32 (3%)
 
 ### Subject progress
 | Subject | Progress |
@@ -57,7 +57,7 @@
 ### Daily mini projects
 | Day | Mini project | Status | Folder |
 |---|---|---|---|
-| 1 | Test a temperature converter with pytest | Not completed | [folder](https://github.com/chinmayeeph/python-to-dl-32days/tree/main/mini-projects/day-01-test-a-temperature-converter-with-pytest) |
+| 1 | Test a temperature converter with pytest | Completed | [folder](https://github.com/chinmayeeph/python-to-dl-32days/tree/main/mini-projects/day-01-test-a-temperature-converter-with-pytest) |
 | 2 | Test a password strength checker with edge cases | Not completed | [folder](https://github.com/chinmayeeph/python-to-dl-32days/tree/main/mini-projects/day-02-test-a-password-strength-checker-with-ed) |
 | 3 | Count words in a text file safely | Not completed | [folder](https://github.com/chinmayeeph/python-to-dl-32days/tree/main/mini-projects/day-03-count-words-in-a-text-file-safely) |
 | 4 | Convert a CSV of expenses to JSON | Not completed | [folder](https://github.com/chinmayeeph/python-to-dl-32days/tree/main/mini-projects/day-04-convert-a-csv-of-expenses-to-json) |
