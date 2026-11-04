@@ -4,13 +4,13 @@
    <!-- ROADMAP_PROGRESS_START -->
 **Roadmap:** 4 Nov 2026 to 5 Dec 2026 (32 days)
 
-**Overall progress:** 3 / 192 study tasks (2%)
-**Daily mini projects:** 1 / 32 (3%)
+**Overall progress:** 0 / 192 study tasks (0%)
+**Daily mini projects:** 0 / 32 (0%)
 
 ### Subject progress
 | Subject | Progress |
 |---|---|
-| Python | 3/70 (4%) |
+| Python | 0/70 (0%) |
 | Weekend Project | 0/18 (0%) |
 | Data | 0/38 (0%) |
 | Machine Learning | 0/38 (0%) |
@@ -21,7 +21,7 @@
 ### Daily progress
 | Day | Date | Topic | Status |
 |---|---|---|---|
-| 1 | 04 Nov 2026 | Unit testing: assert and pytest | In progress |
+| 1 | 04 Nov 2026 | Unit testing: assert and pytest | Not started |
 | 2 | 05 Nov 2026 | Testing with inputs, edge cases, debugging failures | Not started |
 | 3 | 06 Nov 2026 | File I/O: reading, writing, with, exceptions | Not started |
 | 4 | 07 Nov 2026 | CSV and JSON files | Not started |
@@ -57,7 +57,7 @@
 ### Daily mini projects
 | Day | Mini project | Status | Folder |
 |---|---|---|---|
-| 1 | Test a temperature converter with pytest | Completed | [folder](https://github.com/chinmayeeph/python-to-dl-32days/tree/main/mini-projects/day-01-test-a-temperature-converter-with-pytest) |
+| 1 | Test a temperature converter with pytest | Not completed | [folder](https://github.com/chinmayeeph/python-to-dl-32days/tree/main/mini-projects/day-01-test-a-temperature-converter-with-pytest) |
 | 2 | Test a password strength checker with edge cases | Not completed | [folder](https://github.com/chinmayeeph/python-to-dl-32days/tree/main/mini-projects/day-02-test-a-password-strength-checker-with-ed) |
 | 3 | Count words in a text file safely | Not completed | [folder](https://github.com/chinmayeeph/python-to-dl-32days/tree/main/mini-projects/day-03-count-words-in-a-text-file-safely) |
 | 4 | Convert a CSV of expenses to JSON | Not completed | [folder](https://github.com/chinmayeeph/python-to-dl-32days/tree/main/mini-projects/day-04-convert-a-csv-of-expenses-to-json) |
@@ -100,14 +100,14 @@
 | Sentiment Classifier (NLP) | 0% | [folder](https://github.com/chinmayeeph/python-to-dl-32days/tree/main/weekend-projects/05-sentiment-classifier) |
 
 ### Completed topics
-- [x] Day 1: Review mistakes and fix failures: Unit testing: assert and pytest
-- [x] Day 1: Practical exercise: apply Unit testing: assert and pytest in a short script
-- [x] Day 1: Quick quiz, update notes, commit: Unit testing: assert and pytest
 
 ### Pending topics
 - [ ] Day 1: Learn: Unit testing: assert and pytest
 - [ ] Day 1: Follow code examples: Unit testing: assert and pytest
 - [ ] Day 1: Solve exercises without help: Unit testing: assert and pytest
+- [ ] Day 1: Review mistakes and fix failures: Unit testing: assert and pytest
+- [ ] Day 1: Practical exercise: apply Unit testing: assert and pytest in a short script
+- [ ] Day 1: Quick quiz, update notes, commit: Unit testing: assert and pytest
 - [ ] Day 2: Learn: Testing with inputs, edge cases, debugging failures
 - [ ] Day 2: Follow code examples: Testing with inputs, edge cases, debugging failures
 - [ ] Day 2: Solve exercises without help: Testing with inputs, edge cases, debugging failures
