@@ -4,5 +4,5 @@
 - Subject: Python
 - Concept practised: Unit testing: assert and pytest
 - Brief: Time-box 45–60 min. Deliver a runnable script and one short README.
-- Status: Completed
+- Status: Not completed
 - Notes: 
