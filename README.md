@@ -4,13 +4,13 @@
    <!-- ROADMAP_PROGRESS_START -->
 **Roadmap:** 4 Nov 2026 to 5 Dec 2026 (32 days)
 
-**Overall progress:** 5 / 192 study tasks (3%)
+**Overall progress:** 9 / 192 study tasks (5%)
 **Daily mini projects:** 0 / 32 (0%)
 
 ### Subject progress
 | Subject | Progress |
 |---|---|
-| Python | 5/70 (7%) |
+| Python | 9/70 (13%) |
 | Weekend Project | 0/18 (0%) |
 | Data | 0/38 (0%) |
 | Machine Learning | 0/38 (0%) |
@@ -22,7 +22,7 @@
 | Day | Date | Topic | Status |
 |---|---|---|---|
 | 1 | 04 Nov 2026 | Unit testing: assert and pytest | Completed |
-| 2 | 05 Nov 2026 | Testing with inputs, edge cases, debugging failures | Overdue |
+| 2 | 05 Nov 2026 | Testing with inputs, edge cases, debugging failures | In progress |
 | 3 | 06 Nov 2026 | File I/O: reading, writing, with, exceptions | Overdue |
 | 4 | 07 Nov 2026 | CSV and JSON files | Overdue |
 | 5 | 08 Nov 2026 | Regular expressions: re.search and re.findall | Overdue |
@@ -105,12 +105,12 @@
 - [x] Day : Solve exercises without help: Unit testing: assert and pytest
 - [x] Day : Review mistakes and fix failures: Unit testing: assert and pytest
 - [x] Day : Practical exercise: apply Unit testing: assert and pytest in a short script
+- [x] Day : Quick quiz, update notes, commit: Unit testing: assert and pytest
+- [x] Day 2: Learn: Testing with inputs, edge cases, debugging failures
+- [x] Day : Follow code examples: Testing with inputs, edge cases, debugging failures
+- [x] Day : Solve exercises without help: Testing with inputs, edge cases, debugging failures
 
 ### Pending topics
-- [ ] Day : Quick quiz, update notes, commit: Unit testing: assert and pytest
-- [ ] Day 2: Learn: Testing with inputs, edge cases, debugging failures
-- [ ] Day : Follow code examples: Testing with inputs, edge cases, debugging failures
-- [ ] Day : Solve exercises without help: Testing with inputs, edge cases, debugging failures
 - [ ] Day : Review mistakes and fix failures: Testing with inputs, edge cases, debugging failures
 - [ ] Day : Practical exercise: apply Testing with inputs, edge cases, debugging failures in a short script
 - [ ] Day : Quick quiz, update notes, commit: Testing with inputs, edge cases, debugging failures
