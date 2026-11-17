@@ -4,13 +4,13 @@
    <!-- ROADMAP_PROGRESS_START -->
 **Roadmap:** 4 Nov 2026 to 5 Dec 2026 (32 days)
 
-**Overall progress:** 9 / 192 study tasks (5%)
+**Overall progress:** 11 / 192 study tasks (6%)
 **Daily mini projects:** 0 / 32 (0%)
 
 ### Subject progress
 | Subject | Progress |
 |---|---|
-| Python | 9/70 (13%) |
+| Python | 11/70 (16%) |
 | Weekend Project | 0/18 (0%) |
 | Data | 0/38 (0%) |
 | Machine Learning | 0/38 (0%) |
@@ -109,10 +109,10 @@
 - [x] Day 2: Learn: Testing with inputs, edge cases, debugging failures
 - [x] Day : Follow code examples: Testing with inputs, edge cases, debugging failures
 - [x] Day : Solve exercises without help: Testing with inputs, edge cases, debugging failures
+- [x] Day : Review mistakes and fix failures: Testing with inputs, edge cases, debugging failures
+- [x] Day : Practical exercise: apply Testing with inputs, edge cases, debugging failures in a short script
 
 ### Pending topics
-- [ ] Day : Review mistakes and fix failures: Testing with inputs, edge cases, debugging failures
-- [ ] Day : Practical exercise: apply Testing with inputs, edge cases, debugging failures in a short script
 - [ ] Day : Quick quiz, update notes, commit: Testing with inputs, edge cases, debugging failures
 - [ ] Day 3: Learn: File I/O: reading, writing, with, exceptions
 - [ ] Day : Follow code examples: File I/O: reading, writing, with, exceptions
