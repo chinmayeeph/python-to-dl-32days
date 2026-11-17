@@ -4,13 +4,13 @@
    <!-- ROADMAP_PROGRESS_START -->
 **Roadmap:** 4 Nov 2026 to 5 Dec 2026 (32 days)
 
-**Overall progress:** 0 / 192 study tasks (0%)
+**Overall progress:** 3 / 192 study tasks (2%)
 **Daily mini projects:** 0 / 32 (0%)
 
 ### Subject progress
 | Subject | Progress |
 |---|---|
-| Python | 0/70 (0%) |
+| Python | 3/70 (4%) |
 | Weekend Project | 0/18 (0%) |
 | Data | 0/38 (0%) |
 | Machine Learning | 0/38 (0%) |
@@ -21,19 +21,19 @@
 ### Daily progress
 | Day | Date | Topic | Status |
 |---|---|---|---|
-| 1 | 04 Nov 2026 | Unit testing: assert and pytest | Not started |
-| 2 | 05 Nov 2026 | Testing with inputs, edge cases, debugging failures | Not started |
-| 3 | 06 Nov 2026 | File I/O: reading, writing, with, exceptions | Not started |
-| 4 | 07 Nov 2026 | CSV and JSON files | Not started |
-| 5 | 08 Nov 2026 | Regular expressions: re.search and re.findall | Not started |
-| 6 | 09 Nov 2026 | Regex: re.sub and validation exercises | Not started |
-| 7 | 10 Nov 2026 | OOP: classes, objects, constructors, attributes | Not started |
-| 8 | 11 Nov 2026 | OOP: inheritance, class/static methods, properties, encapsulation | Not started |
-| 9 | 12 Nov 2026 | Comprehensions, iterators, generators | Not started |
-| 10 | 13 Nov 2026 | Decorators (intro) and type hints | Not started |
-| 11 | 14 Nov 2026 | Virtual environments, pip, requirements.txt, packages | Not started |
-| 12 | 15 Nov 2026 | Clean code, debugging, Git/GitHub workflow | Not started |
-| 13 | 16 Nov 2026 | Weekly review: Python foundations | Not started |
+| 1 | 04 Nov 2026 | Unit testing: assert and pytest | In progress |
+| 2 | 05 Nov 2026 | Testing with inputs, edge cases, debugging failures | Overdue |
+| 3 | 06 Nov 2026 | File I/O: reading, writing, with, exceptions | Overdue |
+| 4 | 07 Nov 2026 | CSV and JSON files | Overdue |
+| 5 | 08 Nov 2026 | Regular expressions: re.search and re.findall | Overdue |
+| 6 | 09 Nov 2026 | Regex: re.sub and validation exercises | Overdue |
+| 7 | 10 Nov 2026 | OOP: classes, objects, constructors, attributes | Overdue |
+| 8 | 11 Nov 2026 | OOP: inheritance, class/static methods, properties, encapsulation | Overdue |
+| 9 | 12 Nov 2026 | Comprehensions, iterators, generators | Overdue |
+| 10 | 13 Nov 2026 | Decorators (intro) and type hints | Overdue |
+| 11 | 14 Nov 2026 | Virtual environments, pip, requirements.txt, packages | Overdue |
+| 12 | 15 Nov 2026 | Clean code, debugging, Git/GitHub workflow | Overdue |
+| 13 | 16 Nov 2026 | Weekly review: Python foundations | Overdue |
 | 14 | 17 Nov 2026 | NumPy arrays and vectorised operations | Not started |
 | 15 | 18 Nov 2026 | Pandas: Series, DataFrames, loading data | Not started |
 | 16 | 19 Nov 2026 | Pandas: missing values and duplicates | Not started |
@@ -100,11 +100,11 @@
 | Sentiment Classifier (NLP) | 0% | [folder](https://github.com/chinmayeeph/python-to-dl-32days/tree/main/weekend-projects/05-sentiment-classifier) |
 
 ### Completed topics
+- [x] Day 1: Learn: Unit testing: assert and pytest
+- [x] Day : Follow code examples: Unit testing: assert and pytest
+- [x] Day : Solve exercises without help: Unit testing: assert and pytest
 
 ### Pending topics
-- [ ] Day 1: Learn: Unit testing: assert and pytest
-- [ ] Day : Follow code examples: Unit testing: assert and pytest
-- [ ] Day : Solve exercises without help: Unit testing: assert and pytest
 - [ ] Day : Review mistakes and fix failures: Unit testing: assert and pytest
 - [ ] Day : Practical exercise: apply Unit testing: assert and pytest in a short script
 - [ ] Day : Quick quiz, update notes, commit: Unit testing: assert and pytest
@@ -295,5 +295,5 @@
 - [ ] Day : Clean text: lowercase, tokenize, remove stop-words; write tests
 - [ ] Day : Build BoW/TF-IDF features; train a classifier and compare with a Hugging Face pipeline
 
-_Last updated: 04 Nov 2026 18:16 IST_
+_Last updated: 17 Nov 2026 14:00 IST_
 <!-- ROADMAP_PROGRESS_END -->
