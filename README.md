@@ -4,13 +4,13 @@
    <!-- ROADMAP_PROGRESS_START -->
 **Roadmap:** 4 Nov 2026 to 5 Dec 2026 (32 days)
 
-**Overall progress:** 11 / 192 study tasks (6%)
+**Overall progress:** 12 / 192 study tasks (6%)
 **Daily mini projects:** 0 / 32 (0%)
 
 ### Subject progress
 | Subject | Progress |
 |---|---|
-| Python | 11/70 (16%) |
+| Python | 12/70 (17%) |
 | Weekend Project | 0/18 (0%) |
 | Data | 0/38 (0%) |
 | Machine Learning | 0/38 (0%) |
@@ -22,7 +22,7 @@
 | Day | Date | Topic | Status |
 |---|---|---|---|
 | 1 | 04 Nov 2026 | Unit testing: assert and pytest | Completed |
-| 2 | 05 Nov 2026 | Testing with inputs, edge cases, debugging failures | In progress |
+| 2 | 05 Nov 2026 | Testing with inputs, edge cases, debugging failures | Completed |
 | 3 | 06 Nov 2026 | File I/O: reading, writing, with, exceptions | Overdue |
 | 4 | 07 Nov 2026 | CSV and JSON files | Overdue |
 | 5 | 08 Nov 2026 | Regular expressions: re.search and re.findall | Overdue |
@@ -111,9 +111,9 @@
 - [x] Day : Solve exercises without help: Testing with inputs, edge cases, debugging failures
 - [x] Day : Review mistakes and fix failures: Testing with inputs, edge cases, debugging failures
 - [x] Day : Practical exercise: apply Testing with inputs, edge cases, debugging failures in a short script
+- [x] Day : Quick quiz, update notes, commit: Testing with inputs, edge cases, debugging failures
 
 ### Pending topics
-- [ ] Day : Quick quiz, update notes, commit: Testing with inputs, edge cases, debugging failures
 - [ ] Day 3: Learn: File I/O: reading, writing, with, exceptions
 - [ ] Day : Follow code examples: File I/O: reading, writing, with, exceptions
 - [ ] Day : Solve exercises without help: File I/O: reading, writing, with, exceptions
