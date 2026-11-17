@@ -5,7 +5,7 @@
 **Roadmap:** 4 Nov 2026 to 5 Dec 2026 (32 days)
 
 **Overall progress:** 12 / 192 study tasks (6%)
-**Daily mini projects:** 1 / 32 (3%)
+**Daily mini projects:** 2 / 32 (6%)
 
 ### Subject progress
 | Subject | Progress |
@@ -58,7 +58,7 @@
 | Day | Mini project | Status | Folder |
 |---|---|---|---|
 | 1 | Test a temperature converter with pytest | Completed | [folder](https://github.com/chinmayeeph/python-to-dl-32days/tree/main/mini-projects/day-01-test-a-temperature-converter-with-pytest) |
-| 2 | Test a password strength checker with edge cases | Not completed | [folder](https://github.com/chinmayeeph/python-to-dl-32days/tree/main/mini-projects/day-02-test-a-password-strength-checker-with-ed) |
+| 2 | Test a password strength checker with edge cases | Completed | [folder](https://github.com/chinmayeeph/python-to-dl-32days/tree/main/mini-projects/day-02-test-a-password-strength-checker-with-ed) |
 | 3 | Count words in a text file safely | Not completed | [folder](https://github.com/chinmayeeph/python-to-dl-32days/tree/main/mini-projects/day-03-count-words-in-a-text-file-safely) |
 | 4 | Convert a CSV of expenses to JSON | Not completed | [folder](https://github.com/chinmayeeph/python-to-dl-32days/tree/main/mini-projects/day-04-convert-a-csv-of-expenses-to-json) |
 | 5 | Extract emails and phone numbers with regex | Not completed | [folder](https://github.com/chinmayeeph/python-to-dl-32days/tree/main/mini-projects/day-05-extract-emails-and-phone-numbers-with-re) |
